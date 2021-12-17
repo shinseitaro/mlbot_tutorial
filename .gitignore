@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 *.pkl
 model*.xz
+.venv/
